@@ -1,0 +1,8 @@
+First git code
+Second git code
+Third git code
+<<<<<<< HEAD
+Fouth git code
+=======
+Fifth git code
+>>>>>>> dev
